@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Luna Landing your perfect landing page",
+    "title": "Site internet à vendre",
     "description": "Landing page template",
     "lang": "en",
     "charset": "UTF-8",
@@ -28,7 +28,7 @@
     "links": [
       { "label": "About", "href": "#" },
       { "label": "Services", "href": "#" },
-      { "label": "Prices", "href": "#" },
+      { "label": "Prix", "href": "#" },
       { "label": "FAQs", "href": "#" },
       { "label": "Blog", "href": "#" }
     ]
@@ -38,7 +38,7 @@
     "subTitle": "Discover the Beauty of the Cosmos: Explore the Infinite Wonders of Space with Us",
     "primaryCta": "Github Repo",
     "secondaryCta": "See our pricing",
-    "highlightedTitle": "Luna Landing"
+    "highlightedTitle": "Site internet à vendre"
   },
   "servicesData": {
     "title": "Everything you need to build a website",
